@@ -1,5 +1,5 @@
 # Dungeon-Game
-I was bored so I made a small console game.
+A game I found on my laptop. I made it 3 years ago.
 
 # Controls <br>
 
